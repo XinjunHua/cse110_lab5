@@ -64,6 +64,7 @@ function init() {
 
     // Speak the text
     speechSynthesis.speak(utterance);
+    
   });
 }
 
